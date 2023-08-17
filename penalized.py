@@ -144,11 +144,10 @@ def clear():
 
 logo =f"""____________________
 
- \033[1;30mAUTHOR    : Mateen BUZDAR
+ \033[1;91 0mAUTHOR    : Mateen BUZDAR
  \033[1;32mFACEBOOK : PENALIZED KING
-\033[1;37mVERSION    : 0.1
-
-                                   [PENALIZED KING]
+\033[1;37mVERSION   :0.1       
+         [PENALIZED KING]
 
 ____________________"""
 
@@ -274,7 +273,7 @@ def xyz():
 
     print(f"")
 
-    print(f"\033[1;91m========================================================")
+    print(f"\033[1;91m=============================================")
 
     Mateen = input("[√] CHOOSE : ")
 
